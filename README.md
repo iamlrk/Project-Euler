@@ -13,3 +13,4 @@ Problems Index.
 |             06 | Sum Square Differece | [Problem-06](code/6.ipynb)   |
 |             07 | 10,001st Prime       | [Problem-07](code/7.ipynb)   |
 |             17 | Number Letter Counts | [Problem-17](code/17.ipynb)  |
+|             27 | Quadratic Primes     | [Problem-27](code/27.ipynb)  |
